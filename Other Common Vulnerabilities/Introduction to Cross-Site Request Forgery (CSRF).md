@@ -1,6 +1,9 @@
 # Additional Reading
+
 [OWASP - Cross-Site Request Forgery Prevention,](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+
 [Portswigger - Cross-Site Request Forgery.](https://portswigger.net/kb/issues/00200700_cross-site-request-forgery)
+
 [Portswigger - Using Burp to test for CSRF.](https://portswigger.net/support/using-burp-to-test-for-cross-site-request-forgery)
 
 # Portswigger Labs
